@@ -1,11 +1,20 @@
 
+# Data Annotation PYTHON
 
-Data Annotation PYTHON 
 
+## Project Structure
+
+```
+model/
+├── README.md
+└── Data Annotation/
+    ├── IRIS.csv          # Iris flower dataset (sepal/petal measurements + species)
+    └── model.ipynb       # Jupyter Notebook: IRIS classification using Random Forest
+```
 
 ---
 
-1. What is Data Annotation?
+## 1. What is Data Annotation?
 
 Data Annotation is the process of adding labels or tags to raw data so that a machine learning model can understand it.
 
